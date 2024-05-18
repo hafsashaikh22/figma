@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn-theme1 {
+    background-color: #F17AD4;
+
+    width: 100px;
+    ;
+}
+
+.btn-theme {
+    width: 100px;
+    border-color: rgb(214, 79, 142);
+
+}
+
+.btn-theme2 {
+    background-color: rgb(139, 133, 135);
+}
+
+.midium {
+    background-image: url(./images/1709402595543\ 1.png);
+    background-size: cover;
+    background-color: rgb(26, 27, 27) !important;
+
+}
